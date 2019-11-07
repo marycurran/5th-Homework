@@ -1,0 +1,23 @@
+#container{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+ul{
+    border-style:solid;
+    border-color:green;
+    text-align:left;
+    padding:1%;
+    padding-inline-end: 25%;
+}
+body{
+    text-align: center;
+}
+
+#users{
+    border-style:solid;
+    border-color:green;
+    text-align:left;
+    padding:1%;
+    padding-inline-end: 32%;
+}
